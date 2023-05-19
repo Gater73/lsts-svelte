@@ -1,7 +1,7 @@
 # LSTS - Svelte Remake
 ## _Local Stock Tracking System_
 
-This is a ramake of [LSTS](https://github.com/Gater73/LSTS) made with sveltekit and using a api that gets data from MongoDB.
+This is a remake of [LSTS](https://github.com/Gater73/LSTS) made with sveltekit and using a api that gets data from MongoDB.
 <br>
 <img height=50 href="https://www.typescriptlang.org/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"/>
 <img height=50 href="mongodb.com" src="https://i.imgur.com/GcMb0SQ.png"/>
