@@ -2,8 +2,7 @@
 ## _Local Stock Tracking System_
 
 This is a ramake of [LSTS](https://github.com/Gater73/LSTS) made with sveltekit and using a api that gets data from MongoDB.
-
-[![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png)](https://www.typescriptlang.org/)
+<img href="https://www.typescriptlang.org/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"/>
 [![MongoDB](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld)](mongodb.com)
 
 Tracks the stock of local pharmacies to help people find their medicine easier
