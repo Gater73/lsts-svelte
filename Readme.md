@@ -47,6 +47,16 @@ if __name__ == '__main__':
         CORS(app)
         app.run(host='localhost', port=8888)
 ```
+- The collection name in your MongoDB database needs to be "remedios" or you can change the code of course.
+- This is the standard this particular script is expecting:
+```nosql
+{
+  "_id": Integer,
+  "unit": String,
+  "name": String,
+  "quant": Integer
+}
+```
 
 ## Features
 
