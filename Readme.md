@@ -4,7 +4,7 @@
 This is a ramake of [LSTS](https://github.com/Gater73/LSTS) made with sveltekit and using a api that gets data from MongoDB.
 <br>
 <img height=50 href="https://www.typescriptlang.org/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"/>
-<img style="border-radius: 2px" height=50 href="mongodb.com" src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png"/>
+<img style="border-radius: 10px" height=50 href="mongodb.com" src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png"/>
 
 Tracks the stock of local pharmacies to help people find their medicine easier
 
